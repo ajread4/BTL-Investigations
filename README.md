@@ -1,4 +1,6 @@
-# Writeups for BlueTeamLabs Investigations
+# README
+
+Writeups for [Blue Team Labs Investigations](https://blueteamlabs.online/home/investigations). 
 
 ## SAM
 * Medium level difficulty 
